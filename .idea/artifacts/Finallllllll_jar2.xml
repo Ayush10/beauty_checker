@@ -1,0 +1,204 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Finallllllll:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Finallllllll_jar2</output-path>
+    <root id="archive" name="Finallllllll.jar">
+      <element id="module-output" name="Finallllllll" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../webcam-capture-0.3.12-dist/webcam-capture-0.3.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../webcam-capture-0.3.12-dist/libs/bridj-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../webcam-capture-0.3.12-dist/libs/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/webcam-capture-0.3.13-20200330.202351-7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacpp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-bin/javacv-bin/javacv-linux-x86_64.jar" path-in-jar="/" />
+      <element id="library" level="application" name="java" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/ffmpeg-2.1.1-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/ffmpeg-2.1.1-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/ffmpeg-2.1.1-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/ffmpeg-2.1.1-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacv-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacv-platform-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-platform-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/videoinput-0.200-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect2-0.2.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-1.12.4-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-2.29.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-platform-4.2.2-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-platform-4.3.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/javacpp-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-platform-1.07-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-platform-0.3.9-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-platform-2.2.6-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-ios-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-platform-4.1.1-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-platform-1.79.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-ios-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/videoinput-platform-0.200-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-platform-0.5.7-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/ffmpeg-4.2.2-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect2-platform-0.2.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/opencv-4.3.0-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-platform-2.3.1-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect2-0.2.0-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-platform-1.12.4-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/videoinput-0.200-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flandmark-1.07-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-platform-2.13.3.31-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-1.12.4-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-platform-2.29.0-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/openblas-0.3.9-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libdc1394-2.2.6-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-2.29.0-1.5.3-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/tesseract-4.1.1-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/leptonica-1.79.0-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect2-0.2.0-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-1.12.4-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/videoinput-0.200-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3-linux-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3-linux-armhf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect-0.5.7-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect2-0.2.0-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-1.12.4-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-2.29.0-1.5.3-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-android-arm64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-linux-ppc64le.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/libfreenect2-0.2.0-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-1.12.4-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-2.29.0-1.5.3-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-android-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/artoolkitplus-2.3.1-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense-1.12.4-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-2.29.0-1.5.3-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/flycapture-2.13.3.31-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Java Advanced/Java Projects/jar_files/librealsense2-2.29.0-1.5.3-windows-x86_64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
